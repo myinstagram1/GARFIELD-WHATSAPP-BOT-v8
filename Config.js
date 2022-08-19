@@ -24,22 +24,22 @@ global.notice = ` *Hi 🥰 I m*
 * انا طالب *
 *Follow My Instagram - https://instagram.com/only_otakuu?igshid=YmMyMTA2M2Y=*`  // 👈 Enter Your details and Social Media Links and Anything
 global.owner =  ['+212617434196'] //👈  Enter Your number
-global.premium =  ['+212617434196'] //👈  Enter Your number
-global.ownernomer = '+212617434196' //👈  Enter Your number
-global.ownername = 'ZENOI' //👈 Enter Your name
+عالمي . premium  =   [ '+212617434196' ] //+212617434196
+عالمي . ownernomer   =   '+212617434196'   // 👈 أدخل رقمك
+global.ownername = 'anos' //👈 Enter Your name
 global.botname = 'A N O S ＢＯＴ' //👈 Enter Your Bot name
-global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 A N O S' //👈 Enter Your Name
-global.ig = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8' // 👈 You Can change this your choice
+عالمي . تذييل     =     '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 anos'     // 👈 أدخل اسمك
+عالمي . ig  =  'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8'  // 👈 يمكنك تغيير هذا اختيارك
 global.region = 'India, South India, Kerala' // 👈 You Can change this your choice
 global.sc = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8'
 global.fbt = 'Follw Us ℹ️' // 👈 Enter (Subscribe/Follow/Like now)
 global.myweb = 'https://www.facebook.com/garfieldbots/'// 👈 Enter your Social media link to follow now button
 global.welcome = '*Welcome To The Group 🦋*' // 👈 You Can change this your choice
 global.bye = '*Bye bye Mother fucker 🐼*' // 👈 You Can change this your choice
-global.packname = 'GARFIELD-BOTv8'  // 👈 You Can change this your choice 
-global.author = 'NOIZE DEVELOPMENT' // 👈 You Can change this your choice 
-global.sessionName = 'session' // 👈 You Can change this your choice
-global.prefa = ['','!','.','🛰️','⚓','🍎'] // 👈 You Can change this your choice
+عالمي . packname   =     'ANOS-BOTv8'          // 👈 يمكنك تغيير هذا اختيارك  
+عالمي . المؤلف  =  'ANOS DEVELOPMENT'  // 👈 يمكنك تغيير هذا اختيارك
+عالمي . sessionName   =   الخاصة   بـ // 👈 يمكنك تغيير هذا اختياركاختيارك
+عالمي . برية          = [ ''         ،         '!'         ،         "."         ،         '🛰️'         ،         '⚓'         ،         '] // يمكنك تغيير هذا اختيارك
 //Go to https://imgbb.com/, upload a photo of your choice and put its link here
 global.thumb =  'https://i.ibb.co/Jz0mMnC/Pics-Art-22-06-03-01-01-46-876.png' 
 global.spoty = 'https://i.postimg.cc/HW2YbN1b/Pics-Art-22-08-09-16-12-14-489.png'
