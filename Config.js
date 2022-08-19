@@ -30,10 +30,10 @@ global.ownername = 'anos' //👈 Enter Your name
 global.botname = 'A N O S ＢＯＴ' //👈 Enter Your Bot name
 عالمي . تذييل     =     '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 anos'     // 👈 أدخل اسمك
 عالمي . ig  =  'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8'  // 👈 يمكنك تغيير هذا اختيارك
-global.region = 'India, South India, Kerala' // 👈 You Can change this your choice
-global.sc = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8'
+global.region = 'Morocco, South Morocco,anos' // 👈 You Can change this your choice
+global.sc = 'error'
 global.fbt = 'Follw Us ℹ️' // 👈 Enter (Subscribe/Follow/Like now)
-global.myweb = 'https://www.facebook.com/garfieldbots/'// 👈 Enter your Social media link to follow now button
+global.myweb = 'https://instagram.com/only_otakuu?igshid=YmMyMTA2M2Y='// 👈 Enter your Social media link to follow now button
 global.welcome = '*Welcome To The Group 🦋*' // 👈 You Can change this your choice
 global.bye = '*Bye bye Mother fucker 🐼*' // 👈 You Can change this your choice
 عالمي . packname   =     'ANOS-BOTv8'          // 👈 يمكنك تغيير هذا اختيارك  
