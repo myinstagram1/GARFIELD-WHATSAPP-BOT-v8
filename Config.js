@@ -41,8 +41,8 @@ global.bye = '*Bye bye Mother fucker 🐼*' // 👈 You Can change this your cho
 عالمي . sessionName   =   الخاصة   بـ // 👈 يمكنك تغيير هذا اختياركاختيارك
 عالمي . برية          = [ ''         ،         '!'         ،         "."         ،         '🛰️'         ،         '⚓'         ،         '] // يمكنك تغيير هذا اختيارك
 //Go to https://imgbb.com/, upload a photo of your choice and put its link here
-global.thumb =  'https://i.ibb.co/Jz0mMnC/Pics-Art-22-06-03-01-01-46-876.png' 
-global.spoty = 'https://i.postimg.cc/HW2YbN1b/Pics-Art-22-08-09-16-12-14-489.png'
+عالمي . thumb =   "https://ibb.co/SdS6YQy" 
+عالمي . Spoty  =  "https://ibb.co/SdS6YQy"
 //Go to https://imgbb.com/, upload a photo of your choice and put its link here
 global.sp = '⭔'
 global.mess = {
