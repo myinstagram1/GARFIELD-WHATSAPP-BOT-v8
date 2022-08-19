@@ -1,4 +1,4 @@
-// 👈 You Can change this your choice
+// 👈 يمكنك تغيير هذا اختيارك
 // 👈 You Can change this your choice 
 const fs = require('fs')
 const chalk = require('chalk')
@@ -16,19 +16,19 @@ global.APIKeys = {
 global.emoji01 = ['🐼'] // 👈 Enter your Emoji 
 global.emoji02 = ['🦋'] //👈 Enter your Emoji
 global.notice = ` *Hi 🥰 I m*
-*ＮＯＩＺ Ξ*
-*I am 16 years old developer...*
-*From Sri Lanka 🇱🇰*
-*I am a Learning.*
-*Not more..*
-*Also I am Student*
-*Follow My Facebook - https://www.facebook.com/zenoixnoize*`  // 👈 Enter Your details and Social Media Links and Anything
-global.owner =  ['+94711502119'] //👈  Enter Your number
-global.premium =  ['+94711502119'] //👈  Enter Your number
-global.ownernomer = '+94711502119' //👈  Enter Your number
+* المطور انوس👑 *
+* عمري 17 سنة مطور ... *
+* من المغرب *
+* انا اتعلم فقط. *
+* ليس اكتر..*
+* انا طالب *
+*Follow My Instagram - https://instagram.com/only_otakuu?igshid=YmMyMTA2M2Y=*`  // 👈 Enter Your details and Social Media Links and Anything
+global.owner =  ['+212617434196'] //👈  Enter Your number
+global.premium =  ['+212617434196'] //👈  Enter Your number
+global.ownernomer = '+212617434196' //👈  Enter Your number
 global.ownername = 'ZENOI' //👈 Enter Your name
-global.botname = 'ＧＡＲＦＩＥＬＤ ＢＯＴ' //👈 Enter Your Bot name
-global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 𝖦𝖺𝗋𝖿𝗂𝖾𝗅𝖽 𝖡𝗈𝗍' //👈 Enter Your Name
+global.botname = 'A N O S ＢＯＴ' //👈 Enter Your Bot name
+global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 A N O S' //👈 Enter Your Name
 global.ig = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8' // 👈 You Can change this your choice
 global.region = 'India, South India, Kerala' // 👈 You Can change this your choice
 global.sc = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8'
